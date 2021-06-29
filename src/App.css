@@ -156,10 +156,10 @@ button:active {
 }
 
 .book-top {
-  position: relative;
-  height: 200px;
-  display: flex;
   align-items: flex-end;
+  display: inline-block;
+  height: 200px;
+  position: relative;
 }
 
 .book-shelf-changer {
